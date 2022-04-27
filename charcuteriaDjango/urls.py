@@ -19,6 +19,7 @@ from charcuteria import views
 
 urlpatterns = [
     path('', views.index),
+    path('charcuteria/static/html/', views.productos, name='productos'),
     path('charcuteria/', include('charcuteria.urls')),
     path('admin/', admin.site.urls),
 ]

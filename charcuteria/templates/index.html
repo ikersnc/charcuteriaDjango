@@ -15,7 +15,7 @@
                 <ul id="barra">
                     <li><a href="{% static 'html/productos.html' %}">Productos</a></li>
                     <li><a href="#">Tienda</a></li>
-                    <li><a href="html/contacto.html">Contacto</a></li>
+                    <li><a href="{% static 'html/contacto.html' %}">Contacto</a></li>
                 </ul>
             </div>
         </header>
@@ -23,7 +23,8 @@
             <p id="cita">Más de 30 años a su servicio</p>
         </article>
         <article id="pedido">
-            <a href="html/productos.html" id="btn">Haz tu pedido</a>
+            <a href="{% static 'html/productos.html' %}" id="btn">Haz tu pedido</a>
         </article>
+        {{ salazones }}
     </body>
 </html>
