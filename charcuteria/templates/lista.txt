@@ -1,0 +1,238 @@
+SALAZONES
+    Mojama extra
+    Hueva Maruca extra
+    Hueva mújol extra
+    Hueva atunarro
+    Hueva de atún Almadraba extra
+    Hueva merluza
+    Bonito extra graso
+    Bonito extra seco
+    Caballa
+    Caballa arreglada con pimentón
+    Atún de hijada en sal o toñina de sorra
+    Anchoas en sal del Cantábrico
+    Anchoas arregladas a mano del Cantábrico en aceite
+    Atún ahumado
+    Salmón ahumado
+    Bacalao ahumado
+    Lomos de Salmón ahumado en aceite
+    Sardinas saladas
+    Capellanes
+    Capellanes arreglados en aceite
+    Pericana alcoyana
+    Bacalao para freír
+    Bacalao inglés
+    Lomos de Bacalao en sal desespinados
+    Hijadas y colas de Bacalao en sal desespinados
+    Lomo de Bacalao inglés para comer crudo
+    Migas de Bacalao inglés para comer crudo
+    Patas de pulpo cocido
+    Boquerón en aceite
+    Colorines (Salmón, Bacalao, hueva y mojama en aceite)
+    Atún en escabeche
+    Tarritos de hueva de Salmón y hueva de mújol
+    Anchoas Lolín en aceite de oliva
+    Anchoas Rezumar etiqueta roja en aceite de oliva
+
+EMBUTIDO SECO
+    Longaniza gruesa seca de Pinoso
+    Longaniza fina seca de Pinoso
+    Morcilla de cebolla seca de Pinoso
+    Morcón blanco de Pinoso
+    Morcón negro de Pinoso
+    Morcón de Jumilla
+    Butifarra de Jumilla
+
+EMBUTIDO FRESCO
+    Longaniza fresca de Pinoso
+    Morcilla de cebolla fresca de Pinoso
+    Chistorra de Pinoso
+    Choricitos de Pinoso
+
+FUETS Y SALCHICHONES
+    Fuet sin pimienta Can Durán
+    Longaniza Imperial El Pozo
+    Fuet metro Senyor Porc
+    Longaniza de Payés Can Durán
+    Longaniza de Payés a la pimienta Can Durán
+    Longaniza de Payés al pimentón Can Durán
+    Mini fuets Can Durán
+
+EMBUTIDO IBÉRICO
+    Lomo blanco
+    Lomo ibérico de cebo
+    Lomo ibérico de bellota
+    Lomo ibérico de bellota Joselito
+    Lomo ibérico de bellota 5 Jotas
+    Salchichón ibérico de bellota
+    Chorizo ibérico de bellota
+
+SOBRASADAS
+    Sobrasada mallorquina Matas
+    Sobrasada mallorquina a la pimienta Matas
+    Sobrasada mallorquina picante
+    Sobrasada mallorquina porc negre
+    Crema de sobrasada tarrina El Vinalopó
+
+JAMONES
+    Jamón deshuesado 
+    Jamón deshuesado bodega
+    Jamón deshuesado ibérico cebo 
+    Paletilla deshuesada ibérica cebo  
+    Jamón bodega al corte
+    Jamón ibérico de cebo al corte
+    Jamón ibérico de bellota al corte
+    Cecina extra de León
+
+LEGUMBRES
+    Garbanzo extra castellano
+    Garbanzo extra Pedrosillano
+    Lenteja extra castellana
+    Lenteja extra pardina
+    Alubia extra de Ávila
+    Alubia extra de Villena
+    Alubia extra pinta
+    Alubia extra fabada asturiana
+    Alubia frisuelo
+    Arroz La Fallera
+
+QUESOS
+    Queso fresco Valle del Carche Jumilla
+    Queso fresco Valle del Carche Jumilla sin sal
+    Queso fresco Valle de Elda
+    Requesón Valle de Elda
+    Queso tierno puro de oveja sin lactosa
+    Queso tierno puro de cabra
+    Rulo de cabra
+    Queso barra Ventero
+    Queso barra régimen
+    Queso barra La Casita de cabra
+    Queso oreado de cabra Caprillice
+    Queso semicurado de cabra
+    Queso semicurado mezcla García Baquero
+    Queso semicurado mezcla Los Cameros
+    Queso curado mezcla García Baquero reserva 12 meses
+    Queso curado mezcla Los Cameros
+    Queso curado Boffard
+    Queso curado de oveja Flor de Esgueva
+    Queso curado de oveja El Rincón de la Mancha D.O: Manchego
+    Queso puro de oveja Ojos del Guadiana
+    Queso puro de oveja al romero Cuarto Perea
+    Queso puro de oveja con trufa
+    Queso puro de oveja con mojo picón
+    Queso añejo puro de cabra Los Cameros
+    Queso de Mahón añejo
+    Queso Roncari Blue de cabra
+    Queso Cabrales
+
+QUESOS IMPORTACIÓN
+    HOLANDA
+        Queso de bola tierno
+        Queso de bola semiduro
+        Queso de bola duro Pasta Grana
+        Maasdam
+        Gouda cabra
+        Gouda añejo
+        Barra Edam
+    SUIZA
+        Gruyère
+    FRANCIA
+        Roquefort
+    DINAMARCA
+        Havarti Arla
+        Bavaria Blue
+    ITALIA
+        Parmesano 36 meses
+
+EMBUTIDO AL CORTE
+    Salchichón suave
+    Salchichón Rolfo extra
+    Salchichón casero
+    Salchichón de pavo
+    Chorizo blanco
+    Chorizo rojo extra
+    Pamplonés extra
+    Pamplonés Troncal
+    Salami extra
+    Salami finas hierbas
+    Pepperoni
+
+COCIDOS
+    Jamón cocido extra Bonnatur
+    Jamón cocido Duroc
+    Jamón cocido Campofrío
+    Jamón cocido ahumado natural al corte (Lacón)
+    Bacon ahumado
+    York de barra sandwich
+    Pechuga de pavo Pavofrío
+    Pechuga de pavo natural Casa de Cases
+    Mini pechuga de pavo Pavofrío
+    Pechuga de pollo
+    Mortadela siciliana Campofrío
+    Mortadela de aceitunas de pavo
+    Mortadela de ajo
+    Choped de cerdo
+    Choped de pavo
+
+PATÉS
+    Mousse de hígado de pato
+    Block  de hígado de pato
+    Micuit de hígado de pato
+    Paté de finas hierbas
+    Paté de pimienta
+
+ESPECIALES
+    Ensaladilla rusa
+    Torreznos de Soria
+    Tocino ibérico de bellota
+    Panceta Duroc
+
+TOSTAS
+    Tostas Parera
+    Mini tostaditas de pasas
+    Mini tostaditas de arándanos
+    Regañás
+    Bastones de cristal al aceite de oliva
+
+CONSERVAS
+    Tomate asado con leña
+    Tomate asado con leña rallado
+    Tomate entero Éxito 1kg
+    Tomate entero Éxito 1/2kg
+    Tomate frito Éxito
+    Tomate troceado Éxito 1kg
+    Tomate troceado Éxito 1/2kg
+    Tomate triturado Apis
+    Tomate tamizado Tomator
+    Tomate frito Hida
+    Tomate frito Hida cristal
+    Ensalada de pimiento rojo y verde
+    Pimientos del Piquillo enteros extra
+    Pimientos del Piquillo tiras primera
+    Ensalada con atún La niña del Segura
+    Aceitunas verdes con hueso La Ermita
+    Aceitunas rellenas de anchoa La Explanada
+    Alubias blancas cocidas extra
+    Garbanzos cocidos extra
+    Melocotón en almíbar mitades 700g
+    Melocotón en almíbar entero 2.65kg
+    Atún en aceite de oliva pack de 3 Isabel
+    Sardinas en aceite de oliva Albo
+    Sardinillas en aceite de oliva Albo
+    Filetes de caballa de Andalucía en aceite de girasol MR
+    Filetes de caballa del sur en aceite de oliva Cabo de Peñas
+    Ventresca de atún claro en aceite de oliva Cabo de Peñas
+    Sardinas en aceite de girasol al limón Cabo de Peñas
+    Boquerón frito con aceite de oliva La Chanca
+    Boquerón frito con aceite de oliva La Chanca pandereta
+    Tentáculos de pulpo en aceite vegetal Mariscadora
+    Mejillones en escabeche grandes Mariscadora
+    Mejillones en escabeche 8/12 piezas Mariscadora
+    Calamares rellenos Mariscadora
+    Berberechos al natural de las rías gallegas 25/30 piezas Mariscadora
+    Sofrito para arroz caldero El Mosqui
+    Escamas de sal marina Maldon
+    Aceite de oliva virgen extra travAdell 1L
+    Aceite de oliva virgen extra travAdell 5L
+    Dulce de membrillo
+    Membrillo artesano
